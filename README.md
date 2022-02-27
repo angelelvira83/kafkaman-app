@@ -2,7 +2,7 @@ Manage all of your APIs in Kafkaman, with the industry's most complete Apache Ka
 
 Twitter LinkedIn YouTube Twitch Discourse
 
-#Welcome to Kafkaman 🚀
+##Welcome to Kafkaman 🚀
 Kafkaman has always believed in open dialogue with our community; we continuously make improvements and add new features based on feedback from our community of more than 17 million developers. We are transparent with our roadmaps, we constantly communicate our issues, and we support all major API specifications. That's the Kafkaman open philosophy.
 
 ##The community
